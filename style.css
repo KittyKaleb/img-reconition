@@ -1,0 +1,17 @@
+body {
+    background-color: cadetblue;
+    color: chartreuse;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+#camera {
+    width: 350px;
+    height: 300px;
+    border: 2px dotted rgb(8, 37, 43);
+}
+#resultobjectname,#resultobjectaccuracy,.Thenamesofobjects {
+    color:darkblue;
+}
